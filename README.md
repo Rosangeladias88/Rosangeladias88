@@ -154,19 +154,17 @@ Me chamo Rosangela Dias, tenho 27 anos e sou natural do Maranhão. Atualmente, e
 ### 📊 Estatísticas
 
 <p>
+ ### 📊 Estatísticas
+
+<div>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Rosangeladias88&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Rosangeladias88&show_icons=true&theme=tokyonight&cache_seconds=1800"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosangeladias88&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosangeladias88&layout=compact&theme=tokyonight&cache_seconds=1800"
   />
-
+</div>
 </p>
